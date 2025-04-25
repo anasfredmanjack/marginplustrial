@@ -23,7 +23,7 @@ export default function NeedFunding() {
               Need Funding for Your Agribusiness?
             </h2>
             <p className="text-black">
-              Whether you`&apos;`re a smallholder farmer or scaling an agro-processing venture, Marginplus helps you connect
+              Whether you&apos;re a smallholder farmer or scaling an agro-processing venture, Marginplus helps you connect
               with impact-driven investors ready to support your journey.
             </p>
             <div>

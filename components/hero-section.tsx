@@ -3,7 +3,7 @@ import Link from "next/link"
 
 export default function HeroSection() {
   return (
-    <section className="py-4 px-4  lg:-mt-10 md:-mt-10  relative overflow-hidden">
+    <section className="p-8 lg:-mt-10 md:-mt-10  relative overflow-hidden">
       {/* Big Background Text */}
       <div className="absolute inset-0 flex opacity-50 justify-center items-center pointer-events-none z-0">
         <h1

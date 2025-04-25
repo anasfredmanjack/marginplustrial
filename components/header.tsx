@@ -16,7 +16,7 @@ export default function Header() {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <header className=" mx-auto py-4 px-4 flex items-center justify-between relative">
+    <header className=" p-8 flex items-center justify-between relative">
       <Link href="/" className="flex items-center">
         <Image src="/images/marginplus-logo.png" alt="Marginplus Logo" width={120} height={40} className="h-8 w-auto" />
       </Link>
