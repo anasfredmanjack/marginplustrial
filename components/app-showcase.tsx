@@ -15,7 +15,7 @@ export default function AppShowcase() {
 </div>
 
 
-      <section className="bg-[#076a24] text-white relative md:h-[300px] overflow-visible lg:mt-32 md:mt-32">
+      <section className="bg-[#014F2A] text-white relative md:h-[300px] overflow-visible lg:mt-32 md:mt-32">
         {/* Tablet & desktop:  show desktop phone image version section */}
         <div className="hidden md:block absolute top-23 left-4 transform -translate-y-1/2 z-10">
           <Image

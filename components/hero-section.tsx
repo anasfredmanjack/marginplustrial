@@ -84,9 +84,9 @@ export default function HeroSection() {
   {/* Right Column */}
   <div
     className="
-      relative w-full
-      md:w-[370px] lg:w-[450px]
-      h-[450px] md:h-[470px] lg:h-[550px]
+      relative w-full lg:mt-0 md:-mt-8 mt-18
+      md:w-[350px] lg:w-[450px]
+      h-[400px] md:h-[450px] lg:h-[550px]
       justify-self-center md:justify-self-end
     "
   >
